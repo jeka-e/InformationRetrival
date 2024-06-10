@@ -3,7 +3,7 @@ This repository contains the code of our Final Project for the "Information Retr
 
 ![alt text](https://github.com/jeka-e/InformationRetrival/blob/main/scheme_IR_bigger.png)
 
-We managed to achieve a considerable improvement of the scores in comparison to the results presented in [BEIR Benchmark]([www.google.com](https://github.com/beir-cellar/beir))
+We managed to achieve a considerable improvement in the scores in comparison to the results presented in [BEIR Benchmark](https://github.com/beir-cellar/beir). You can find more details in the .pdf file.
 
 All the code except the last part of the evaluation can be directly done using the notebooks.
 
